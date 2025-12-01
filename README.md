@@ -1,6 +1,6 @@
 # Marketing Intelligence Agent v7.0
 
-[▶️ Watch the 6-minute video walkthrough](https://www.youtube.com/watch?v=pVQjZ-KoBbI) | [📂 GitHub Repository](https://github.com/gaab-braga)
+[▶️ Watch the 6-minute video walkthrough](https://www.youtube.com/watch?v=8IW4VXle3JQ) | [📂 GitHub Repository](https://github.com/gaab-braga)
 
 Democratizing senior-level data analysis for Brazilian marketers with a production-grade multi-agent system that plans, codes, validates, and narrates insights automatically.
 
